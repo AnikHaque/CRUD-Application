@@ -1,6 +1,5 @@
-# Ostad_assignment_M10
-Ostad Assigment 10 Requirements are fuul filed by  crud operations .
-ex: 
+# CRUD-APP
+
 http://localhost:8080/api/v1/createWork //* by this url we can give post body and create a work list .
 http://localhost:8080/api/v1/updateStatus/:id  //* by this url we can update work list status by post body . 
 http://localhost:8080/api/v1/getAllWorks //* by this url we can read all data . 
